@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5NqZwcvZ64vnewrEa0zR-21" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="85" width="180" height="180" as="geometry" />
+        </mxCell>
         <mxCell id="5NqZwcvZ64vnewrEa0zR-4" value="提出问题" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="70" height="30" as="geometry" />
         </mxCell>
@@ -66,9 +69,6 @@
               <mxPoint x="457" y="360" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="5NqZwcvZ64vnewrEa0zR-21" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="120" y="85" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="5NqZwcvZ64vnewrEa0zR-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5NqZwcvZ64vnewrEa0zR-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
