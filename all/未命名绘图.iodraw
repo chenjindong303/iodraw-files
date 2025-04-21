@@ -82,6 +82,9 @@
         <mxCell id="5NqZwcvZ64vnewrEa0zR-27" value="解&lt;br&gt;决&lt;br&gt;问&lt;br&gt;题" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="410" width="30" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="5NqZwcvZ64vnewrEa0zR-28" value="提&lt;br&gt;出&lt;br&gt;问&lt;br&gt;题" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="120" width="30" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
