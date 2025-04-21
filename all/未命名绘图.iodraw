@@ -91,6 +91,12 @@
         <mxCell id="5NqZwcvZ64vnewrEa0zR-30" value="问&lt;br&gt;卷&lt;br&gt;调&lt;br&gt;查&lt;br&gt;法&lt;br&gt;、&lt;br&gt;半&lt;br&gt;结&lt;br&gt;构&lt;br&gt;化&lt;br&gt;访&lt;br&gt;谈&lt;br&gt;法" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="290" width="40" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="5NqZwcvZ64vnewrEa0zR-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="290" as="sourcePoint" />
+            <mxPoint x="450" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
