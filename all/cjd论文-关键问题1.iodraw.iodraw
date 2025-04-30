@@ -111,6 +111,9 @@
         <mxCell id="IaCKC_0D0iWavObB9UIR-34" value="残差" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="300" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="IaCKC_0D0iWavObB9UIR-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
