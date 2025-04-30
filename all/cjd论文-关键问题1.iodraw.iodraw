@@ -13,6 +13,12 @@
         <mxCell id="IaCKC_0D0iWavObB9UIR-4" value="市场行情数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="70" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="IaCKC_0D0iWavObB9UIR-5" value="市场行情数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="70" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IaCKC_0D0iWavObB9UIR-6" value="市场行情数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="70" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
