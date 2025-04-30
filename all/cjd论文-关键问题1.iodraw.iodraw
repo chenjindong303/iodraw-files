@@ -84,7 +84,6 @@
             <mxPoint x="200" y="159.99999999999997" as="sourcePoint" />
             <mxPoint x="225.36" y="289.28" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="180" />
               <mxPoint x="200.36" y="209.28" />
               <mxPoint x="225.36" y="209.28" />
             </Array>
@@ -101,10 +100,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="335" y="112.51" width="42.49" height="166.88" as="geometry" />
+          <mxGeometry x="330.63" y="113.13" width="46.25" height="172.5" as="geometry" />
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-32" value="其他数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="355" y="200" width="70" height="30" as="geometry" />
+          <mxGeometry x="355" y="210" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-33" value="高频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="300" width="40" height="20" as="geometry" />
