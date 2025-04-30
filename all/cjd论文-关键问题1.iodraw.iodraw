@@ -96,17 +96,12 @@
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-36" value="EMD&lt;br&gt;特征分解&amp;nbsp; +&amp;nbsp;&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IaCKC_0D0iWavObB9UIR-23">
           <mxGeometry x="-0.0021" y="4" relative="1" as="geometry">
-            <mxPoint x="26" y="37" as="offset" />
+            <mxPoint x="-54" y="37" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-37" value="EMD特征分解&amp;nbsp; +&amp;nbsp; Fine-to-coarse特征重构" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IaCKC_0D0iWavObB9UIR-23">
           <mxGeometry x="-0.0021" y="4" relative="1" as="geometry">
             <mxPoint x="26" y="57" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IaCKC_0D0iWavObB9UIR-38" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IaCKC_0D0iWavObB9UIR-23">
-          <mxGeometry x="0.4891" y="-6" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
