@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IaCKC_0D0iWavObB9UIR-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IaCKC_0D0iWavObB9UIR-1" target="IaCKC_0D0iWavObB9UIR-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-1" value="多源异构数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="80" width="80" height="30" as="geometry" />
         </mxCell>
