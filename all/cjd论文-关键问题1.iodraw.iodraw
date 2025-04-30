@@ -91,7 +91,7 @@
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-28" value="白糖期货价格（收盘价）&lt;br&gt;时间序列" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IaCKC_0D0iWavObB9UIR-23">
           <mxGeometry x="-0.0021" y="4" relative="1" as="geometry">
-            <mxPoint x="23" y="7" as="offset" />
+            <mxPoint x="27" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-36" value="白糖期货价格（收盘价）&lt;br&gt;时间序列" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IaCKC_0D0iWavObB9UIR-23">
