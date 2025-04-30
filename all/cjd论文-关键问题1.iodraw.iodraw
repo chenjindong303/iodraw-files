@@ -100,7 +100,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="328.75" y="111.25" width="52.5" height="170" as="geometry" />
+          <mxGeometry x="330.63" y="113.13" width="46.25" height="172.5" as="geometry" />
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-32" value="其他数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="355" y="210" width="70" height="30" as="geometry" />
