@@ -10,6 +10,9 @@
         <mxCell id="IaCKC_0D0iWavObB9UIR-3" value="糖业新闻&lt;br&gt;文本数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="140" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="IaCKC_0D0iWavObB9UIR-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IaCKC_0D0iWavObB9UIR-4" target="IaCKC_0D0iWavObB9UIR-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-4" value="市场行情数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="140" width="80" height="30" as="geometry" />
         </mxCell>
@@ -74,7 +77,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-19" value="大语言模型(deepseek)&lt;br&gt;情感分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="425" y="210" width="140" height="40" as="geometry" />
+          <mxGeometry x="400" y="210" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IaCKC_0D0iWavObB9UIR-20" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="235" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
