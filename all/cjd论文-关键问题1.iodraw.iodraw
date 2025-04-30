@@ -77,7 +77,7 @@
           <mxGeometry x="390" y="270" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-22" value="高频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="270" width="80" height="30" as="geometry" />
+          <mxGeometry x="200" y="270" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.183;exitY=1.024;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="IaCKC_0D0iWavObB9UIR-4" target="IaCKC_0D0iWavObB9UIR-22">
           <mxGeometry relative="1" as="geometry">
