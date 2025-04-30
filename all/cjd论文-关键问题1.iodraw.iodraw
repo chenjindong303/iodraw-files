@@ -76,7 +76,7 @@
         <mxCell id="IaCKC_0D0iWavObB9UIR-19" value="大语言模型(deepseek)&lt;br&gt;情感分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="270" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IaCKC_0D0iWavObB9UIR-22" value="市场行情数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IaCKC_0D0iWavObB9UIR-22" value="高频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="270" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.183;exitY=1.024;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="IaCKC_0D0iWavObB9UIR-4" target="IaCKC_0D0iWavObB9UIR-22">
@@ -98,7 +98,7 @@
           <mxGeometry x="328.75" y="111.25" width="52.5" height="170" as="geometry" />
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-32" value="其他数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="350" y="190" width="70" height="30" as="geometry" />
+          <mxGeometry x="355" y="210" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
