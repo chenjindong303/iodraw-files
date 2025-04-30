@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-17" value="数值化&lt;br&gt;情感特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="240" width="80" height="30" as="geometry" />
+          <mxGeometry x="500" y="260" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IaCKC_0D0iWavObB9UIR-3" target="IaCKC_0D0iWavObB9UIR-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-19" value="大语言模型&lt;br&gt;如deepseek" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="475" y="193" width="90" height="40" as="geometry" />
+          <mxGeometry x="440" y="200" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
