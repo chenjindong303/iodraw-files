@@ -73,8 +73,8 @@
             <mxPoint x="450" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IaCKC_0D0iWavObB9UIR-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="495" y="198" width="50" height="30" as="geometry" />
+        <mxCell id="IaCKC_0D0iWavObB9UIR-19" value="大语言模型&lt;br&gt;如deepseek" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="193" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
