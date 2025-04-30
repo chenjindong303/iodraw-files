@@ -29,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-10" value="python爬虫采集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="425" y="8" width="110" height="30" as="geometry" />
+          <mxGeometry x="440" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
