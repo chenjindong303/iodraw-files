@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IaCKC_0D0iWavObB9UIR-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="290" width="190" height="40" as="geometry" />
+          <mxGeometry x="160" y="290" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-1" value="多源异构数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="80" width="80" height="30" as="geometry" />
