@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-19" value="大语言模型&lt;br&gt;如deepseek" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="200" width="90" height="40" as="geometry" />
+          <mxGeometry x="450" y="210" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
