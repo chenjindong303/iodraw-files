@@ -79,7 +79,7 @@
         <mxCell id="IaCKC_0D0iWavObB9UIR-22" value="低频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="300" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IaCKC_0D0iWavObB9UIR-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.183;exitY=1.024;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IaCKC_0D0iWavObB9UIR-4">
+        <mxCell id="IaCKC_0D0iWavObB9UIR-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.183;exitY=1.024;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IaCKC_0D0iWavObB9UIR-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="220" as="sourcePoint" />
             <mxPoint x="240" y="290" as="targetPoint" />
@@ -87,16 +87,6 @@
               <mxPoint x="215" y="220" />
               <mxPoint x="240" y="220" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IaCKC_0D0iWavObB9UIR-28" value="白糖期货价格（收盘价）&lt;br&gt;时间序列" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IaCKC_0D0iWavObB9UIR-23">
-          <mxGeometry x="-0.0021" y="4" relative="1" as="geometry">
-            <mxPoint x="-4" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IaCKC_0D0iWavObB9UIR-37" value="EMD特征分解&amp;nbsp; +&amp;nbsp; Fine-to-coarse特征重构" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IaCKC_0D0iWavObB9UIR-23">
-          <mxGeometry x="-0.0021" y="4" relative="1" as="geometry">
-            <mxPoint x="26" y="47" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
@@ -111,8 +101,25 @@
         <mxCell id="IaCKC_0D0iWavObB9UIR-34" value="残差" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="300" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="IaCKC_0D0iWavObB9UIR-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.183;exitY=1.024;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IaCKC_0D0iWavObB9UIR-4" target="IaCKC_0D0iWavObB9UIR-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="171" as="sourcePoint" />
+            <mxPoint x="240" y="290" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IaCKC_0D0iWavObB9UIR-41" value="白糖期货价格（收盘价）&lt;br&gt;时间序列" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IaCKC_0D0iWavObB9UIR-40">
+          <mxGeometry x="-0.0021" y="4" relative="1" as="geometry">
+            <mxPoint x="-4" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IaCKC_0D0iWavObB9UIR-42" value="EMD特征分解&amp;nbsp; +&amp;nbsp; Fine-to-coarse特征重构" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IaCKC_0D0iWavObB9UIR-40">
+          <mxGeometry x="-0.0021" y="4" relative="1" as="geometry">
+            <mxPoint x="26" y="47" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="270" y="200" width="50" height="100" as="geometry" />
+          <mxGeometry x="215" y="225" width="40" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
