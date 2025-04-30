@@ -96,7 +96,7 @@
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-36" value="EMD特征分解&amp;nbsp; +&amp;nbsp; Fine-to-coarse特征重构" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IaCKC_0D0iWavObB9UIR-23">
           <mxGeometry x="-0.0021" y="4" relative="1" as="geometry">
-            <mxPoint x="-4" y="37" as="offset" />
+            <mxPoint x="16" y="37" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
