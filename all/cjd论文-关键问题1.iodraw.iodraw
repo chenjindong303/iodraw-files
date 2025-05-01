@@ -199,6 +199,9 @@
         <mxCell id="RqkYrxgqPQcJy56u3k2C-20" value="结构化数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="90" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RqkYrxgqPQcJy56u3k2C-21" value="结构化数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
