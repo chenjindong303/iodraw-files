@@ -102,9 +102,6 @@
             <mxPoint x="-8" y="44" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RqkYrxgqPQcJy56u3k2C-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IaCKC_0D0iWavObB9UIR-31" target="RqkYrxgqPQcJy56u3k2C-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IaCKC_0D0iWavObB9UIR-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="328.75" y="111.25" width="52.5" height="170" as="geometry" />
         </mxCell>
@@ -139,9 +136,9 @@
         <mxCell id="RqkYrxgqPQcJy56u3k2C-2" value="时间戳对齐&lt;br&gt;多维特征矩阵拼接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="340" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RqkYrxgqPQcJy56u3k2C-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.022;exitY=0.302;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IaCKC_0D0iWavObB9UIR-32" target="RqkYrxgqPQcJy56u3k2C-2">
+        <mxCell id="RqkYrxgqPQcJy56u3k2C-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IaCKC_0D0iWavObB9UIR-32" target="RqkYrxgqPQcJy56u3k2C-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="350" as="sourcePoint" />
+            <mxPoint x="357" y="220" as="sourcePoint" />
             <mxPoint x="430" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
