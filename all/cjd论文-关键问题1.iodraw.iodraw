@@ -191,7 +191,7 @@
           <mxGeometry x="280" y="390" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RqkYrxgqPQcJy56u3k2C-17" value="机器学习模型训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="342.5" y="500" width="117.5" height="40" as="geometry" />
+          <mxGeometry x="331.25" y="530" width="117.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
