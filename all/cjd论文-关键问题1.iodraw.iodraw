@@ -159,7 +159,7 @@
           <mxGeometry x="200" y="430" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RqkYrxgqPQcJy56u3k2C-8" value="SHAP分析特征重要性&lt;br&gt;筛选Top N 个特征" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="460" width="120" height="30" as="geometry" />
+          <mxGeometry x="328.75" y="430" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RqkYrxgqPQcJy56u3k2C-10" value="TruncatedSVD&lt;br&gt;特征降维" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="510" width="120" height="30" as="geometry" />
