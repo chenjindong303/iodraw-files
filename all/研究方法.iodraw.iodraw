@@ -65,7 +65,7 @@
           <mxGeometry x="290" y="410" width="220" height="140" as="geometry" />
         </mxCell>
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-25" value="结构化数据 + 非结构化数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="420" width="150" height="20" as="geometry" />
+          <mxGeometry x="325" y="420" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-26" value="数据清洗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="448.75" width="20" height="62.5" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="404" y="448.75" width="20" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-30" value="特征降维" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="448.75" width="20" height="62.5" as="geometry" />
+          <mxGeometry x="480" y="448.75" width="20" height="62.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
