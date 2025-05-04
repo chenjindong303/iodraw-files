@@ -97,6 +97,9 @@
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-25" value="结构化数据 + 非结构化数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="420" width="150" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="1BRuvRk05Ssi5EBrQ4tn-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1BRuvRk05Ssi5EBrQ4tn-26" target="1BRuvRk05Ssi5EBrQ4tn-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-26" value="数据清洗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="448.75" width="20" height="62.5" as="geometry" />
         </mxCell>
@@ -153,6 +156,9 @@
         </mxCell>
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-42" value="结论与展望" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="342.5" y="675" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1BRuvRk05Ssi5EBrQ4tn-62" value="数据清洗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="448.75" width="20" height="62.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
