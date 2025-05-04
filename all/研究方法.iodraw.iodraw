@@ -22,6 +22,12 @@
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-7" value="研究意义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="200" width="20" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1BRuvRk05Ssi5EBrQ4tn-8" value="文献综述" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1BRuvRk05Ssi5EBrQ4tn-9" value="文献综述" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="200" width="20" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
