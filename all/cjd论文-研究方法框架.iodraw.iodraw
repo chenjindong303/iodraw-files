@@ -106,8 +106,14 @@
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-27" value="特征构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="348" y="448.75" width="20" height="62.5" as="geometry" />
         </mxCell>
+        <mxCell id="1BRuvRk05Ssi5EBrQ4tn-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1BRuvRk05Ssi5EBrQ4tn-28" target="1BRuvRk05Ssi5EBrQ4tn-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-28" value="标准化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="448.75" width="20" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1BRuvRk05Ssi5EBrQ4tn-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1BRuvRk05Ssi5EBrQ4tn-29" target="1BRuvRk05Ssi5EBrQ4tn-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-29" value="特征筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="433" y="448.75" width="20" height="62.5" as="geometry" />
@@ -162,6 +168,9 @@
             <mxPoint x="360" y="530" as="sourcePoint" />
             <mxPoint x="350" y="480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1BRuvRk05Ssi5EBrQ4tn-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
