@@ -92,7 +92,7 @@
           <mxGeometry x="325" y="530" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-34" value="量化模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="680" width="60" height="20" as="geometry" />
+          <mxGeometry x="220" y="600" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="580" width="220" height="70" as="geometry" />
@@ -104,16 +104,16 @@
           <mxGeometry x="305" y="585" width="20" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-38" value="策略优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="583.75" width="20" height="62.5" as="geometry" />
+          <mxGeometry x="370" y="583.75" width="20" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-39" value="策略对比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="585" width="20" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-40" value="回测分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="433" y="583.75" width="20" height="62.5" as="geometry" />
+          <mxGeometry x="415" y="583.75" width="20" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-41" value="量化回测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="348" y="583.75" width="20" height="62.5" as="geometry" />
+          <mxGeometry x="328" y="583.75" width="20" height="62.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
