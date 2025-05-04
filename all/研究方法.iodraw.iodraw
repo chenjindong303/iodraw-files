@@ -32,7 +32,7 @@
           <mxGeometry x="480" y="200" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-11" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="190" width="120" height="80" as="geometry" />
+          <mxGeometry x="170" y="190" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
