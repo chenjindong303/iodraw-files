@@ -70,8 +70,11 @@
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-26" value="数据清洗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="448.75" width="20" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="1BRuvRk05Ssi5EBrQ4tn-27" value="数据清洗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1BRuvRk05Ssi5EBrQ4tn-27" value="特征构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="448.75" width="20" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1BRuvRk05Ssi5EBrQ4tn-28" value="特征构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="448.75" width="20" height="62.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
