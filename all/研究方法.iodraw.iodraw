@@ -50,7 +50,7 @@
           <mxGeometry x="300" y="295" width="20" height="85" as="geometry" />
         </mxCell>
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-19" value="量化投资理论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="295" width="20" height="85" as="geometry" />
+          <mxGeometry x="330" y="295" width="20" height="85" as="geometry" />
         </mxCell>
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-20" value="机器学习模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="295" width="20" height="85" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="440" y="295" width="20" height="85" as="geometry" />
         </mxCell>
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-22" value="复合深度学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="295" width="20" height="60" as="geometry" />
+          <mxGeometry x="480" y="295" width="20" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
