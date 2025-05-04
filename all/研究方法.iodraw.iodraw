@@ -100,7 +100,7 @@
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-36" value="对比分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="600" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1BRuvRk05Ssi5EBrQ4tn-37" value="数据清洗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1BRuvRk05Ssi5EBrQ4tn-37" value="策略构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="585" width="20" height="62.5" as="geometry" />
         </mxCell>
       </root>
