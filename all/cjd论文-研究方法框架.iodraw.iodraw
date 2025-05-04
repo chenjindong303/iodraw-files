@@ -55,8 +55,10 @@
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="286.25" width="220" height="102.5" as="geometry" />
         </mxCell>
-        <mxCell id="1BRuvRk05Ssi5EBrQ4tn-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1BRuvRk05Ssi5EBrQ4tn-16" target="1BRuvRk05Ssi5EBrQ4tn-52">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1BRuvRk05Ssi5EBrQ4tn-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1BRuvRk05Ssi5EBrQ4tn-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="427.4999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-16" value="理论概述" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="327.5" width="60" height="20" as="geometry" />
@@ -135,9 +137,6 @@
         </mxCell>
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-42" value="结论与展望" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="680" width="85" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1BRuvRk05Ssi5EBrQ4tn-52" value="理论概述" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="427.5" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
