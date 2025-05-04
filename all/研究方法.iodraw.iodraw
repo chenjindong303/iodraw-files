@@ -64,6 +64,9 @@
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="410" width="220" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="1BRuvRk05Ssi5EBrQ4tn-24" value="白糖期货市场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="410" width="20" height="85" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
