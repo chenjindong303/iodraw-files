@@ -41,7 +41,7 @@
           <mxGeometry x="290" y="286.25" width="220" height="102.5" as="geometry" />
         </mxCell>
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-16" value="理论概述" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="315" width="60" height="20" as="geometry" />
+          <mxGeometry x="220" y="327.5" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-17" value="理论分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="327.5" width="60" height="20" as="geometry" />
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="1BRuvRk05Ssi5EBrQ4tn-22" value="复合深度学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="295" width="20" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="1BRuvRk05Ssi5EBrQ4tn-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
