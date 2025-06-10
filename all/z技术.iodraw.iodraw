@@ -118,7 +118,7 @@
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-32" value="对比研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="635" y="357.5" width="20" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="Pkw7cTJZeR9MiOs4TusP-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Pkw7cTJZeR9MiOs4TusP-2">
+        <mxCell id="Pkw7cTJZeR9MiOs4TusP-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.476;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Pkw7cTJZeR9MiOs4TusP-2" target="Pkw7cTJZeR9MiOs4TusP-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="310" as="sourcePoint" />
             <mxPoint x="430" y="130" as="targetPoint" />
