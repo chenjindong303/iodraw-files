@@ -130,6 +130,13 @@
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-36" value="空间实践赋能" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="330" y="325" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Pkw7cTJZeR9MiOs4TusP-41" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="540" y="390" as="sourcePoint" />
+            <mxPoint x="640" y="390" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
