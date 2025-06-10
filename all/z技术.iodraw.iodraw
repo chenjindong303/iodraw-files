@@ -25,6 +25,15 @@
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-7" value="研究背景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Pkw7cTJZeR9MiOs4TusP-8" value="研究背景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pkw7cTJZeR9MiOs4TusP-9" value="研究背景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="150" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pkw7cTJZeR9MiOs4TusP-10" value="研究背景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="150" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
