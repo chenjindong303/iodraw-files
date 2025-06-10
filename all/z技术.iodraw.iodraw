@@ -26,7 +26,7 @@
           <mxGeometry x="190" y="230" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-6" value="解&lt;br&gt;决&lt;br&gt;问&lt;br&gt;题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="340" width="30" height="70" as="geometry" />
+          <mxGeometry x="190" y="330" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-7" value="研究背景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="120" width="60" height="20" as="geometry" />
@@ -76,7 +76,7 @@
             <mxPoint x="390" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pkw7cTJZeR9MiOs4TusP-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Pkw7cTJZeR9MiOs4TusP-5">
+        <mxCell id="Pkw7cTJZeR9MiOs4TusP-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pkw7cTJZeR9MiOs4TusP-5" target="Pkw7cTJZeR9MiOs4TusP-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="290" as="sourcePoint" />
             <mxPoint x="410" y="240" as="targetPoint" />
