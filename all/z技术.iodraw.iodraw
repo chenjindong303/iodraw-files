@@ -103,7 +103,7 @@
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-28" value="案例分析法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="242.5" width="20" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="Pkw7cTJZeR9MiOs4TusP-29" value="半结构访谈法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pkw7cTJZeR9MiOs4TusP-29" value="访谈法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="242.5" width="20" height="95" as="geometry" />
         </mxCell>
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pkw7cTJZeR9MiOs4TusP-28" target="Pkw7cTJZeR9MiOs4TusP-21">
@@ -129,6 +129,9 @@
         </mxCell>
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-36" value="空间实践赋能" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="330" y="325" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pkw7cTJZeR9MiOs4TusP-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Pkw7cTJZeR9MiOs4TusP-37" target="Pkw7cTJZeR9MiOs4TusP-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
