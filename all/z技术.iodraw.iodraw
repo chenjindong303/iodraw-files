@@ -8,7 +8,7 @@
           <mxGeometry x="170" y="80" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-2" value="研究内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="80" width="70" height="20" as="geometry" />
+          <mxGeometry x="390" y="80" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-3" value="研究方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="80" width="70" height="20" as="geometry" />
@@ -23,16 +23,16 @@
           <mxGeometry x="190" y="340" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-7" value="研究背景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="120" width="60" height="20" as="geometry" />
+          <mxGeometry x="360" y="120" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-8" value="研究意义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="120" width="60" height="20" as="geometry" />
+          <mxGeometry x="440" y="120" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-9" value="研究综述" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="150" width="60" height="20" as="geometry" />
+          <mxGeometry x="360" y="150" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-10" value="理论基础" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="150" width="60" height="20" as="geometry" />
+          <mxGeometry x="440" y="150" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-11" value="民族互嵌社区治理现状" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="307.5" y="210" width="255" height="20" as="geometry" />
