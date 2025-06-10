@@ -100,8 +100,8 @@
             <mxPoint x="290" y="405" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pkw7cTJZeR9MiOs4TusP-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="245" width="120" height="60" as="geometry" />
+        <mxCell id="Pkw7cTJZeR9MiOs4TusP-28" value="案例分析法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="245" width="20" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
