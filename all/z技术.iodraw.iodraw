@@ -22,8 +22,8 @@
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-6" value="解&lt;br&gt;决&lt;br&gt;问&lt;br&gt;题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="340" width="30" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Pkw7cTJZeR9MiOs4TusP-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="120" width="80" height="20" as="geometry" />
+        <mxCell id="Pkw7cTJZeR9MiOs4TusP-7" value="研究背景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
