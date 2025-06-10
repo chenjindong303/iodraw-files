@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-21" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="205" width="290" height="120" as="geometry" />
+          <mxGeometry x="290" y="210" width="290" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-20" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="110" width="290" height="70" as="geometry" />
@@ -41,25 +41,25 @@
           <mxGeometry x="440" y="150" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-11" value="民族互嵌社区治理现状" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="210" width="255" height="20" as="geometry" />
+          <mxGeometry x="307.5" y="215" width="255" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-12" value="党建引领民族互嵌社区共同的构建实践与成效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="240" width="255" height="20" as="geometry" />
+          <mxGeometry x="307.5" y="245" width="255" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-13" value="党建引领空间下共同体优化路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="307.5" y="270" width="255" height="20" as="geometry" />
+          <mxGeometry x="307.5" y="275" width="255" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-14" value="组织整合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="300" width="55" height="20" as="geometry" />
+          <mxGeometry x="300" y="305" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-15" value="利益整合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="372.5" y="300" width="55" height="20" as="geometry" />
+          <mxGeometry x="372.5" y="305" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-16" value="价值整合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="300" width="55" height="20" as="geometry" />
+          <mxGeometry x="445" y="305" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-17" value="技术整合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="515" y="300" width="55" height="20" as="geometry" />
+          <mxGeometry x="515" y="305" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-18" value="党建引领治理共同体优化路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="307.5" y="360" width="255" height="20" as="geometry" />
