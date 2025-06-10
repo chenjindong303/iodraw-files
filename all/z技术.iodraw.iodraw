@@ -115,8 +115,14 @@
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-31" value="文献梳理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="635" y="120" width="20" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="Pkw7cTJZeR9MiOs4TusP-32" value="文献梳理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pkw7cTJZeR9MiOs4TusP-32" value="对比研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="635" y="357.5" width="20" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Pkw7cTJZeR9MiOs4TusP-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="310" as="sourcePoint" />
+            <mxPoint x="500" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
