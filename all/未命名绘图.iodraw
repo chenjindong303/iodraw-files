@@ -103,7 +103,7 @@
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-29" value="访谈法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="345" width="20" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Pkw7cTJZeR9MiOs4TusP-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.012;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Pkw7cTJZeR9MiOs4TusP-37" target="Pkw7cTJZeR9MiOs4TusP-21" edge="1">
+        <mxCell id="Pkw7cTJZeR9MiOs4TusP-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.022;exitY=0.207;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="Pkw7cTJZeR9MiOs4TusP-37" target="Pkw7cTJZeR9MiOs4TusP-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="290" as="sourcePoint" />
             <mxPoint x="610" y="310" as="targetPoint" />
@@ -139,6 +139,9 @@
         </mxCell>
         <mxCell id="99N_6VlBJb0sr56ij7Oq-2" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;虚实融合&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="508.75" y="447.5" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="99N_6VlBJb0sr56ij7Oq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pkw7cTJZeR9MiOs4TusP-5" target="Pkw7cTJZeR9MiOs4TusP-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
