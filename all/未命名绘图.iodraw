@@ -8,7 +8,7 @@
           <mxGeometry x="640" y="235" width="40" height="195" as="geometry" />
         </mxCell>
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-21" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="230" width="310" height="140" as="geometry" />
+          <mxGeometry x="290" y="230" width="310" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-20" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="130" width="290" height="70" as="geometry" />
@@ -103,7 +103,7 @@
         <mxCell id="Pkw7cTJZeR9MiOs4TusP-29" value="访谈法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="345" width="20" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Pkw7cTJZeR9MiOs4TusP-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.082;exitY=0.389;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.012;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Pkw7cTJZeR9MiOs4TusP-37" target="Pkw7cTJZeR9MiOs4TusP-21" edge="1">
+        <mxCell id="Pkw7cTJZeR9MiOs4TusP-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.012;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Pkw7cTJZeR9MiOs4TusP-37" target="Pkw7cTJZeR9MiOs4TusP-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="290" as="sourcePoint" />
             <mxPoint x="610" y="310" as="targetPoint" />
