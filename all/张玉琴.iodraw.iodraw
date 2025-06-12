@@ -146,8 +146,11 @@
         <mxCell id="YLERvGG5n978hZbkfdSv-38" value="文献研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="130" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YLERvGG5n978hZbkfdSv-39" value="文献研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YLERvGG5n978hZbkfdSv-39" value="案例分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="340" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YLERvGG5n978hZbkfdSv-40" value="案例分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="420" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
