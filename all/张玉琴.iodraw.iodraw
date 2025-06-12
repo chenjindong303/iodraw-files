@@ -153,7 +153,7 @@
           <mxGeometry x="720" y="420" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YLERvGG5n978hZbkfdSv-41" value="分析问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="540" width="80" height="20" as="geometry" />
+          <mxGeometry x="40" y="565" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YLERvGG5n978hZbkfdSv-42" value="解决问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="630" width="80" height="20" as="geometry" />
@@ -166,6 +166,9 @@
         </mxCell>
         <mxCell id="YLERvGG5n978hZbkfdSv-45" value="党建引领民族互嵌社区原因分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="179" y="595" width="470" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YLERvGG5n978hZbkfdSv-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
