@@ -134,6 +134,12 @@
         <mxCell id="YLERvGG5n978hZbkfdSv-34" value="研究思路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="130" width="96" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="YLERvGG5n978hZbkfdSv-35" value="研究思路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="130" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YLERvGG5n978hZbkfdSv-36" value="研究思路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="80" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
