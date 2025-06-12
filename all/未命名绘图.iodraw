@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YLERvGG5n978hZbkfdSv-1" value="党建引领机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="40" width="96" height="20" as="geometry" />
+          <mxGeometry x="366" y="40" width="96" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YLERvGG5n978hZbkfdSv-2" value="党建引领机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="187" y="120" width="96" height="20" as="geometry" />
@@ -18,6 +18,12 @@
         </mxCell>
         <mxCell id="YLERvGG5n978hZbkfdSv-5" value="党建引领机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="120" width="96" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YLERvGG5n978hZbkfdSv-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="150" as="sourcePoint" />
+            <mxPoint x="430" y="100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
