@@ -243,7 +243,10 @@
           <mxGeometry x="270" y="195" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="YLERvGG5n978hZbkfdSv-68" value="社区情感治理共同体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="195" width="60" height="35" as="geometry" />
+          <mxGeometry x="340" y="195" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="YLERvGG5n978hZbkfdSv-69" value="社区情感治理共同体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="453" y="195" width="70" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
