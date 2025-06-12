@@ -152,8 +152,8 @@
         <mxCell id="YLERvGG5n978hZbkfdSv-39" value="案例分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="340" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YLERvGG5n978hZbkfdSv-40" value="访谈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="640" width="80" height="70" as="geometry" />
+        <mxCell id="YLERvGG5n978hZbkfdSv-40" value="访谈法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="640" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YLERvGG5n978hZbkfdSv-41" value="分析问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="565" width="80" height="20" as="geometry" />
