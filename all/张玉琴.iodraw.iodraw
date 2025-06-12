@@ -246,10 +246,13 @@
           <mxGeometry x="340" y="195" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="YLERvGG5n978hZbkfdSv-69" value="共同体理论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="462" y="195" width="47" height="35" as="geometry" />
+          <mxGeometry x="476" y="195" width="47" height="35" as="geometry" />
         </mxCell>
         <mxCell id="YLERvGG5n978hZbkfdSv-70" value="空间生产理论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="195" width="55" height="35" as="geometry" />
+          <mxGeometry x="550" y="195" width="55" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="YLERvGG5n978hZbkfdSv-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
