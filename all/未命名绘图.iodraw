@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="sAysplPCyRXuxSaDrOux">
-    <mxGraphModel dx="472" dy="241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="827" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,8 +19,14 @@
         <mxCell id="YLERvGG5n978hZbkfdSv-3" value="党建引领机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="120" width="96" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="YLERvGG5n978hZbkfdSv-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YLERvGG5n978hZbkfdSv-4" target="YLERvGG5n978hZbkfdSv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YLERvGG5n978hZbkfdSv-4" value="党建引领机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="427" y="120" width="96" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YLERvGG5n978hZbkfdSv-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YLERvGG5n978hZbkfdSv-5" target="YLERvGG5n978hZbkfdSv-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YLERvGG5n978hZbkfdSv-5" value="党建引领机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="120" width="96" height="20" as="geometry" />
