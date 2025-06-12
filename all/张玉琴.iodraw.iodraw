@@ -95,13 +95,19 @@
         <mxCell id="YLERvGG5n978hZbkfdSv-10" value="党建引领机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="187" y="390" width="96" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="YLERvGG5n978hZbkfdSv-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YLERvGG5n978hZbkfdSv-11" target="YLERvGG5n978hZbkfdSv-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YLERvGG5n978hZbkfdSv-11" value="党建引领机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="390" width="96" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YLERvGG5n978hZbkfdSv-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YLERvGG5n978hZbkfdSv-12" target="YLERvGG5n978hZbkfdSv-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YLERvGG5n978hZbkfdSv-12" value="党建引领机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="427" y="390" width="96" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YLERvGG5n978hZbkfdSv-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YLERvGG5n978hZbkfdSv-13" target="YLERvGG5n978hZbkfdSv-21">
+        <mxCell id="YLERvGG5n978hZbkfdSv-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YLERvGG5n978hZbkfdSv-13" target="YLERvGG5n978hZbkfdSv-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YLERvGG5n978hZbkfdSv-13" value="党建引领机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
