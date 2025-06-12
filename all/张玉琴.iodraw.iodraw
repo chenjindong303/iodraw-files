@@ -123,7 +123,7 @@
           <mxGeometry x="374" y="80" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YLERvGG5n978hZbkfdSv-30" value="研究方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="80" width="80" height="20" as="geometry" />
+          <mxGeometry x="690" y="80" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YLERvGG5n978hZbkfdSv-31" value="研究背景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="187" y="130" width="96" height="20" as="geometry" />
@@ -147,7 +147,7 @@
           <mxGeometry x="40" y="360" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YLERvGG5n978hZbkfdSv-38" value="文献研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="130" width="80" height="70" as="geometry" />
+          <mxGeometry x="720" y="130" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YLERvGG5n978hZbkfdSv-39" value="案例分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="340" width="20" height="70" as="geometry" />
@@ -172,6 +172,18 @@
         </mxCell>
         <mxCell id="YLERvGG5n978hZbkfdSv-48" value="党建引领民族互嵌社区治理情感共同体优化路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="179" y="660" width="470" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YLERvGG5n978hZbkfdSv-49" value="党建引领机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187" y="455" width="96" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YLERvGG5n978hZbkfdSv-50" value="党建引领机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="455" width="96" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YLERvGG5n978hZbkfdSv-51" value="党建引领机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="427" y="455" width="96" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YLERvGG5n978hZbkfdSv-52" value="党建引领机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="455" width="96" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
