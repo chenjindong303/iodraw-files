@@ -139,6 +139,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="kMN0GgoDGUOgvtrk-fKu-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.433;exitY=-0.006;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214" y="370" as="sourcePoint" />
+            <mxPoint x="360" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="214" y="355" />
+              <mxPoint x="290" y="355" />
+              <mxPoint x="360" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
