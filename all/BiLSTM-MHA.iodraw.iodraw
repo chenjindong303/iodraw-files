@@ -77,6 +77,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="kMN0GgoDGUOgvtrk-fKu-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.043;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="477.5" as="sourcePoint" />
+            <mxPoint x="87" y="518.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="55" y="477.5" />
+              <mxPoint x="55" y="532.5" />
+              <mxPoint x="87" y="532.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kMN0GgoDGUOgvtrk-fKu-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.569;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="507.5" as="sourcePoint" />
+            <mxPoint x="177" y="517.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="507.5" />
+              <mxPoint x="40" y="542.5" />
+              <mxPoint x="177" y="542.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
