@@ -327,12 +327,6 @@
         <mxCell id="kMN0GgoDGUOgvtrk-fKu-74" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#dae8fc;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="285" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kMN0GgoDGUOgvtrk-fKu-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kMN0GgoDGUOgvtrk-fKu-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="410" as="sourcePoint" />
-            <mxPoint x="570" y="315" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
