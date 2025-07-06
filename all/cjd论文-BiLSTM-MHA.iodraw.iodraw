@@ -436,10 +436,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kMN0GgoDGUOgvtrk-fKu-99" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;BiLSTM层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="115" y="210" width="130" height="40" as="geometry" />
+          <mxGeometry x="140" y="210" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kMN0GgoDGUOgvtrk-fKu-100" value="Attention层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="215" width="80" height="30" as="geometry" />
+        <mxCell id="kMN0GgoDGUOgvtrk-fKu-100" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Attention层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="210" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
