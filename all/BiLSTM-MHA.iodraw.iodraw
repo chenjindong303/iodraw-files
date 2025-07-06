@@ -216,6 +216,18 @@
             <mxPoint x="80" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kMN0GgoDGUOgvtrk-fKu-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="324.87" as="sourcePoint" />
+            <mxPoint x="404" y="324.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kMN0GgoDGUOgvtrk-fKu-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="379.89" as="sourcePoint" />
+            <mxPoint x="404" y="379.89" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
