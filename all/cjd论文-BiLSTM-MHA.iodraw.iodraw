@@ -438,6 +438,9 @@
         <mxCell id="kMN0GgoDGUOgvtrk-fKu-99" value="BiLSTM层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="208" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kMN0GgoDGUOgvtrk-fKu-100" value="Attention层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="215" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
