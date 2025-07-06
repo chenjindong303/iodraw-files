@@ -285,7 +285,7 @@
         <mxCell id="kMN0GgoDGUOgvtrk-fKu-62" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#fad7ac;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="460" y="405" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kMN0GgoDGUOgvtrk-fKu-68" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="kMN0GgoDGUOgvtrk-fKu-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kMN0GgoDGUOgvtrk-fKu-36" target="kMN0GgoDGUOgvtrk-fKu-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="400" as="sourcePoint" />
             <mxPoint x="580" y="350" as="targetPoint" />
