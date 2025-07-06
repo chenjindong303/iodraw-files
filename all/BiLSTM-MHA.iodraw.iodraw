@@ -325,7 +325,7 @@
           <mxGeometry x="355" y="395" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kMN0GgoDGUOgvtrk-fKu-74" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#dae8fc;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="830" y="405" width="20" height="20" as="geometry" />
+          <mxGeometry x="550" y="285" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
