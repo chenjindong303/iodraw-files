@@ -128,12 +128,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kMN0GgoDGUOgvtrk-fKu-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.961;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kMN0GgoDGUOgvtrk-fKu-6">
+        <mxCell id="kMN0GgoDGUOgvtrk-fKu-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.961;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.065;entryY=0.493;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kMN0GgoDGUOgvtrk-fKu-6" target="kMN0GgoDGUOgvtrk-fKu-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="340" as="sourcePoint" />
             <mxPoint x="360" y="290" as="targetPoint" />
             <Array as="points">
               <mxPoint x="300" y="280" />
+              <mxPoint x="330" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
