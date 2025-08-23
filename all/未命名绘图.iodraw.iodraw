@@ -35,7 +35,10 @@
           <mxGeometry x="490" y="238.75" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SA72KFoHKn9awSvZwmVZ-14" value="特征选择&lt;br&gt;数据降维&lt;br&gt;数值归一化&lt;div&gt;数据子集划分&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="145" y="280" width="80" height="100" as="geometry" />
+          <mxGeometry x="145" y="280" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="SA72KFoHKn9awSvZwmVZ-15" value="特征选择&lt;br&gt;数据降维&lt;br&gt;数值归一化&lt;div&gt;数据子集划分&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="365" y="280" width="80" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
