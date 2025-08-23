@@ -10,8 +10,8 @@
         <mxCell id="KHeW621xQD3xkG0hzZTq-2" value="人工智能&lt;div&gt;机器学习&lt;/div&gt;&lt;div&gt;模式识别&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KHeW621xQD3xkG0hzZTq-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="250" width="120" height="80" as="geometry" />
+        <mxCell id="KHeW621xQD3xkG0hzZTq-3" value="数据挖掘" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="210" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
