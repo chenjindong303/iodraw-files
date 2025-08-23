@@ -13,6 +13,9 @@
         <mxCell id="dQJT0_jpfXQwOF9HC3Nr-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;聚类分析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="270" y="300" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dQJT0_jpfXQwOF9HC3Nr-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;聚类分析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="370" y="510" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
