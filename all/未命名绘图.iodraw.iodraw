@@ -7,8 +7,14 @@
         <mxCell id="SA72KFoHKn9awSvZwmVZ-1" value="输入数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="240" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SA72KFoHKn9awSvZwmVZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SA72KFoHKn9awSvZwmVZ-2" target="SA72KFoHKn9awSvZwmVZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SA72KFoHKn9awSvZwmVZ-2" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="240" width="70" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SA72KFoHKn9awSvZwmVZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SA72KFoHKn9awSvZwmVZ-3" target="SA72KFoHKn9awSvZwmVZ-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SA72KFoHKn9awSvZwmVZ-3" value="数据挖掘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="240" width="70" height="27.5" as="geometry" />
