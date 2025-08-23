@@ -19,6 +19,9 @@
         <mxCell id="dQJT0_jpfXQwOF9HC3Nr-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;异常检测&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=35;" vertex="1" parent="1">
           <mxGeometry x="530" y="490" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dQJT0_jpfXQwOF9HC3Nr-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;异常检测&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="600" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
