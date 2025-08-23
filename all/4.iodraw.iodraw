@@ -16,7 +16,7 @@
         <mxCell id="Giv33OmAM1oIhV3JGQ6l-4" value="花瓣长度（cm）" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="130" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Giv33OmAM1oIhV3JGQ6l-5" value="鸢尾花种类" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="Giv33OmAM1oIhV3JGQ6l-5" value="鸢尾花种类：" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="40" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
