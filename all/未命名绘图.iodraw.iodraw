@@ -19,6 +19,9 @@
         <mxCell id="sjGyjEmSJj9nmbmMgQGh-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;属性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="30" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="sjGyjEmSJj9nmbmMgQGh-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;记录&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="255.5" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
