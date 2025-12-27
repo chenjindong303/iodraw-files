@@ -103,8 +103,8 @@
         <mxCell id="E0YYDzzQuvufkysEEFIi-25" value="单身&lt;br&gt;已婚" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="395" y="273" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E0YYDzzQuvufkysEEFIi-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="535" y="268" width="50" height="30" as="geometry" />
+        <mxCell id="E0YYDzzQuvufkysEEFIi-26" value="离异" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="278" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
